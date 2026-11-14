@@ -1,16 +1,25 @@
-## Hi there 👋
+# Supraja AWS Data Engineer Portfolio
 
-<!--
-**supraja-onteddu-dataengineer/supraja-onteddu-dataengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a personal portfolio website for an AWS Data Engineer role.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — main portfolio page
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Local preview
+Open `index.html` directly in a browser, or run:
+
+```bash
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+## GitHub Pages
+To publish the site on GitHub Pages:
+1. Go to the repository **Settings**.
+2. Click **Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select the `main` branch and `/ (root)` folder.
+5. Save.
+
+This portfolio was built without including a mobile number.
